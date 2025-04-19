@@ -9,6 +9,14 @@
 
 # Changelog
 
+## Version [1.1.0] - 2025-04-19
+
+### Added
+
+- Instalación de dependencias necesarias para el proyecto.
+- Creación de la estructura básica del proyecto.
+- Creación de la estrucura html y css.
+
 ## Version [1.0.0] - 2024-09-28
 
 ### Added
